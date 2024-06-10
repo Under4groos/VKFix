@@ -1,5 +1,5 @@
-# VKFixMusic
-1. Удаляет лишние элементы в веб версии VK в разделе Музыка. 
+# VKFix 
+1. Удаляет лишние элементы в веб версии VK в разделе Музыка а так же видео. 
 <div style="margin-left: 40px; margin-right: 40px;">
 <img src="https://github.com/Under4groos/VKFixMusic/blob/master/Screenshots/d.png?raw=true">
 <img src="https://github.com/Under4groos/VKFixMusic/blob/master/Screenshots/i.png?raw=true">
